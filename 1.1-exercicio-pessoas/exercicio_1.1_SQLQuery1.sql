@@ -1,0 +1,25 @@
+CREATE DATABASE Pessoa;
+
+USE Pessoa;
+
+CREATE TABLE pessoa
+(
+	idPessoa INT PRIMARY KEY IDENTITY 
+,	Nome	 VARCHAR(200)NOT NULL
+,	idGmail	 INT FOREIGN KEY 
+,	idTelefone  INT FOREIGN KEY 
+);
+
+CREATE TABLE Gmail
+(
+	idGmail INT PRIMARY KEY IDENTITY 
+,	Gmail	VARCHAR(200)NOT NULL
+,
+);
+
+CREATE TABLE Telefone
+(
+	idTelefone INT PRIMARY KEY IDENTITY 
+,	Telefone	INT
+,
+);
