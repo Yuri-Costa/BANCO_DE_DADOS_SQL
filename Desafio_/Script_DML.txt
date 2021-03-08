@@ -1,0 +1,12 @@
+* Utilizamos o comando "USE" para usar o banco de dados "SENAI_HROADS_TARDE".
+
+*Utilizamos o Comando "INSERT INTO" e o nome da tabela que eu quero inserir o valor, "VALUES" para inserir todos os valores as tabelas correspondes do DDL.
+
+* EXEMPLO: INSERT INTO TipoHabilidades(TipoHabilidade)
+	   VALUES		      ('Ataque')
+				     ,(Defesa')
+				     ,('Cura')
+OBS: Sempre utilizando as '' para inserir valores que contem textos como Nomes, Datas, etc.
+
+*Utilizamos o "UPDATE" para atualizar um valor da tabela e o "SET" para definir
+o novo valor.

@@ -1,0 +1,10 @@
+https://docs.microsoft.com/pt-br/sql/integration-services/import-export-data/connect-to-an-excel-data-source-sql-server-import-and-export-wizard?view=sql-server-ver15
+
+https://docs.microsoft.com/pt-br/sql/integration-services/import-export-data/get-started-with-this-simple-example-of-the-import-and-export-wizard?view=sql-server-ver15
+
+https://www.youtube.com/watch?v=XzzZ2pdkGn8
+
+https://www.youtube.com/watch?v=HtcDcAUao64
+
+https://www.youtube.com/watch?v=cGIAzGzngC4
+

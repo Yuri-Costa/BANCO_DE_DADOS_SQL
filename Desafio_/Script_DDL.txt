@@ -1,0 +1,8 @@
+* Utilizamos o "CREATE DATABASE" e um nome ecolhido que foi "SENAI_HROADS_TARDE", para criar o banco de dados.
+
+* Utilizamos o comando "USE" para usar o banco de dados "SENAI_HROADS_TARDE".
+
+* Utilizamos o "CREATE TABLE" para criar as tabelas, dentro dos parenteses inserimos o nome da tabela e seu tipo,
+exemplo "VARCHAR" para textos, "INT" para numeros inteiros, "DATE" para datas etc. Tambem utilizamos o "INT PRIMARY KEY IDENTITY"
+como um gerador de id automatico, "INT FOREIGN KEY REFERENCES" como id referencial a outra tabela.
+

@@ -1,0 +1,11 @@
+* Utilizamos o comando "USE" para usar o banco de dados "SENAI_HROADS_TARDE".
+
+* Utilizamos o comando "SELECT * FROM " para selecionar uma tabela inteira.
+
+* Utilizamos o comando "SELECT" e o "FROM " para selecionar uma Parte especifica da tabela.
+
+* Utilizamos o comando "SELECT COUNT (DISTINCT) FROM GO" como um contador de itens de coluna especifica da tabela.
+
+* Utilizamos o "INNER JOIN" para selecionar registros que possuem valores correspondentes em ambas tabelas.
+
+* Utilizamos o "RIGHT JOIN" para retornar todos os dados encontrados na tabela à direita. 
