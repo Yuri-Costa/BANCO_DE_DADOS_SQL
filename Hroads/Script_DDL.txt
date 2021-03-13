@@ -1,4 +1,4 @@
-* Utilizamos o "CREATE DATABASE" e um nome ecolhido que foi "SENAI_HROADS_TARDE", para criar o banco de dados.
+* Utilizamos o "CREATE DATABASE" e um nome escolhido que foi "SENAI_HROADS_TARDE", para criar o banco de dados.
 
 * Utilizamos o comando "USE" para usar o banco de dados "SENAI_HROADS_TARDE".
 
